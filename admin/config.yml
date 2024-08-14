@@ -5,10 +5,10 @@
 # Decap CMS docs: https://decapcms.org/docs/intro/
 # Sveltia CMS docs: https://github.com/sveltia/sveltia-cms#features
 
-# Enter your GitHub repo path and branch (defaults to master)
+# Enter your GitHub repo path and branch
 backend:
   name: github
-  repo: danurbanowicz/eleventy-sveltia-cms-starter
+  repo: jerefrer/dharma-blossoms
   branch: master
 
 # The folder used to store uploaded images
